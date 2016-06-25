@@ -1,2 +1,2 @@
-# loader-widget
-Load an unloaded page or a widget
+# Loader and Unloader Widgets
+Easy way to import and export pages and widgets
