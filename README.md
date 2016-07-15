@@ -1,2 +1,2 @@
-# Loader and Unloader Widgets
-Easy way to import and export pages and widgets
+# Loader Widget
+Easy way to import pages and widgets
