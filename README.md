@@ -1,2 +1,13 @@
-# Loader Widget
-Easy way to import pages and widgets
+# x-loader Widget
+An easy way to import pages and widgets into Service Portal.
+
+##Preview
+
+![x-loader](images/preview.png "x-loader")
+
+## Installation
+
+1. Go to [`x-loader.xml`](src/x-loader.xml?raw=true) and right click, Save As...
+2. Go to your instance and import the downloaded xml file
+3. Use the designer to add your __x-loader__ widget into a new or an existing page
+
