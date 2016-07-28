@@ -9,5 +9,5 @@ An easy way to import pages and widgets into Service Portal.
 
 1. Go to [`x-loader.xml`](src/x-loader.xml?raw=true) and right click, Save As...
 2. Go to your instance and import the downloaded xml file
-3. View the widget by navigating to `/$sp.do?id=x-loader`
+3. View the widget by navigating to `/sp_config?id=x-loader`
 
